@@ -44,7 +44,7 @@ address,lanes,filename1,filename2
 "48 W 880 N Provo, UT",1.0,Clark_Images/1/Provo_UT_img_0017.jpg,Clark_Images/1/Provo_UT_img_0018.jpg
 "36 W 880 N Provo, UT",1.0,Clark_Images/1/Provo_UT_img_0019.jpg,Clark_Images/1/Provo_UT_img_0020.jpg
 "1725 N 450 W Provo, UT",1.0,Clark_Images/1/Provo_UT_img_0021.jpg,Clark_Images/1/Provo_UT_img_0022.jpg
-"911 N University Ave Provo, UT",,img_000_.jpg,img_000_.jpg
+"911 N University Ave Provo, UT",1.0,Clark_Images/1/Provo_UT_img_0023.jpg,Clark_Images/1/Provo_UT_img_0024.jpg
 "757 W 2100 N Provo, UT",,img_000_.jpg,img_000_.jpg
 "1485 N Riverside Ave Provo, UT",,img_000_.jpg,img_000_.jpg
 "1069 W 100 S Provo, UT",,img_000_.jpg,img_000_.jpg
