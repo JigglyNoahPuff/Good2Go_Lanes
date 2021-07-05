@@ -57,7 +57,7 @@ address,lanes,filename1,filename2
 "443 N 100 E Provo, UT",1.0,Clark_Images/1/Provo_UT_img_0035.jpg,Clark_Images/1/Provo_UT_img_0036.jpg
 "2598 N 930 E Provo, UT",1.0,Clark_Images/1/Provo_UT_img_0037.jpg,Clark_Images/1/Provo_UT_img_0038.jpg
 "2581 W Center St Provo, UT",2.0,Clark_Images/2/Provo_UT_img_0039.jpg,Clark_Images/2/Provo_UT_img_0040.jpg
-"1611 N Riverside Ave Provo, UT",,img_000_.jpg,img_000_.jpg
+"1611 N Riverside Ave Provo, UT",3.0,Clark_Images/3/Provo_UT_img_0041.jpg,Clark_Images/3/Provo_UT_img_0042.jpg
 "1617 N Riverside Ave Provo, UT",,img_000_.jpg,img_000_.jpg
 "1077 E Ash Ave Provo, UT",,img_000_.jpg,img_000_.jpg
 "1613 N Riverside Ave Provo, UT",,img_000_.jpg,img_000_.jpg
