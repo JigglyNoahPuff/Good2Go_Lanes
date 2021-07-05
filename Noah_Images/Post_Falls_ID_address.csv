@@ -37,11 +37,11 @@ address,lanes,filename1,filename2
 "4375.0 W Upriver Dr Post Falls, ID",2.0,Noah_Images/2/Post_Falls_ID_img_0007.jpg,Noah_Images/2/Post_Falls_ID_img_0008.jpg
 "4445.0 W Upriver Dr Post Falls, ID",1.0,Noah_Images/1/Post_Falls_ID_img_0009.jpg,Noah_Images/1/Post_Falls_ID_img_0010.jpg
 "4269.0 W Upriver Dr Post Falls, ID",2.0,Noah_Images/2/Post_Falls_ID_img_0011.jpg,Noah_Images/2/Post_Falls_ID_img_0012.jpg
-"17427.0 W Summerfield Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"782.0 S Ruby Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"807.0 S Ruby Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"12096.0 W Euclid Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"962.0 S Serene View Dr Post Falls, ID",,img_000_.jpg,img_000_.jpg
+"17427.0 W Summerfield Rd Post Falls, ID",0.0,,
+"782.0 S Ruby Rd Post Falls, ID",0.0,,
+"807.0 S Ruby Rd Post Falls, ID",0.0,,
+"12096.0 W Euclid Rd Post Falls, ID",0.0,,
+"962.0 S Serene View Dr Post Falls, ID",1.0,Noah_Images/1/Post_Falls_ID_img_0013.jpg,Noah_Images/1/Post_Falls_ID_img_0014.jpg
 "11665.0 W Coyote Ln Post Falls, ID",,img_000_.jpg,img_000_.jpg
 "16712.0 W Summerfield Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
 "1085.0 S Starlight Dr Post Falls, ID",,img_000_.jpg,img_000_.jpg
