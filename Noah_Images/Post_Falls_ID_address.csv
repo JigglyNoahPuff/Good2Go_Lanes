@@ -1,27 +1,27 @@
 address,lanes,filename1,filename2
-"951.0 S Ruby Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"886.0 S Orion Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
+"951.0 S Ruby Rd Post Falls, ID",0.0,,
+"886.0 S Orion Rd Post Falls, ID",0.0,,
 "707.0 S Jasper Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"761.0 S Four Winds Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"1386.0 S Agate Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"1380.0 S Agate Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"9927.0 W Creek Side Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"1146.0 S Star Garnet Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"11466.0 W Coyote Ln Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"1023.0 S Jarvis Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"1413.0 S Agate Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"10177.0 W Creek Side Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"11559.0 W Coyote Ln Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"5446.0 W Highland Dr Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"8830.0 W Highland Dr Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"5586.0 W Highland Dr Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"750.0 S Four Winds Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"12446.0 W Euclid Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"2648.0 S Signal Point Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"15108.0 W Destiny Dr Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"1845.0 S Signal Point Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"1346.0 S Agate Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
-"1973.0 S Greensferry Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
+"761.0 S Four Winds Rd Post Falls, ID",0.0,,
+"1386.0 S Agate Rd Post Falls, ID",0.0,,
+"1380.0 S Agate Rd Post Falls, ID",0.0,,
+"9927.0 W Creek Side Rd Post Falls, ID",0.0,,
+"1146.0 S Star Garnet Rd Post Falls, ID",0.0,,
+"11466.0 W Coyote Ln Post Falls, ID",0.0,,
+"1023.0 S Jarvis Rd Post Falls, ID",0.0,,
+"1413.0 S Agate Rd Post Falls, ID",0.0,,
+"10177.0 W Creek Side Rd Post Falls, ID",0.0,,
+"11559.0 W Coyote Ln Post Falls, ID",0.0,,
+"5446.0 W Highland Dr Post Falls, ID",0.0,,
+"8830.0 W Highland Dr Post Falls, ID",0.0,,
+"5586.0 W Highland Dr Post Falls, ID",0.0,,
+"750.0 S Four Winds Rd Post Falls, ID",0.0,,
+"12446.0 W Euclid Rd Post Falls, ID",0.0,,
+"2648.0 S Signal Point Rd Post Falls, ID",0.0,,
+"15108.0 W Destiny Dr Post Falls, ID",0.0,,
+"1845.0 S Signal Point Rd Post Falls, ID",0.0,,
+"1346.0 S Agate Rd Post Falls, ID",0.0,,
+"1973.0 S Greensferry Rd Post Falls, ID",1.0,Noah_Images/1/Post_Falls_ID_img_0001.jpg,Noah_Images/1/Post_Falls_ID_img_0002.jpg
 "676.0 S Jasper Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
 "890.0 S Star Garnet Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
 "905.0 S Jarvis Rd Post Falls, ID",,img_000_.jpg,img_000_.jpg
