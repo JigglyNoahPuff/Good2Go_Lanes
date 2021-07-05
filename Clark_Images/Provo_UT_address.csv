@@ -51,9 +51,9 @@ address,lanes,filename1,filename2
 "518 E 400 N Provo, UT",1.0,Clark_Images/1/Provo_UT_img_0029.jpg,Clark_Images/1/Provo_UT_img_0030.jpg
 "2183 N Timpview Dr Provo, UT",2.0,Clark_Images/2/Provo_UT_img_0031.jpg,Clark_Images/2/Provo_UT_img_0032.jpg
 "1649 N Riverside Ave Provo, UT",,img_000_.jpg,img_000_.jpg
-"1619 N Riverside Ave Provo, UT",,img_000_.jpg,img_000_.jpg
-"1615 N Riverside Ave Provo, UT",,img_000_.jpg,img_000_.jpg
-"1396 N 300 W Provo, UT",,img_000_.jpg,img_000_.jpg
+"1619 N Riverside Ave Provo, UT",0.0,,
+"1615 N Riverside Ave Provo, UT",0.0,,
+"1396 N 300 W Provo, UT",2.0,Clark_Images/2/Provo_UT_img_0033.jpg,Clark_Images/2/Provo_UT_img_0034.jpg
 "443 N 100 E Provo, UT",,img_000_.jpg,img_000_.jpg
 "2598 N 930 E Provo, UT",,img_000_.jpg,img_000_.jpg
 "2581 W Center St Provo, UT",,img_000_.jpg,img_000_.jpg
