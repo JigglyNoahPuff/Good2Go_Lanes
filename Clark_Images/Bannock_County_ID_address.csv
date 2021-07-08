@@ -40,9 +40,9 @@ address,lanes,filename1,filename2
 "31343 S Yearsley, Bannock County, ID",1.0,Clark_Images/1/Bannock_County_ID_img_0029.jpg,Clark_Images/1/Bannock_County_ID_img_0030.jpg
 "12686 E Stockton, Bannock County, ID",0.0,,
 "1345 E Merrill, Bannock County, ID",2.0,Clark_Images/2/Bannock_County_ID_img_0031.jpg,Clark_Images/2/Bannock_County_ID_img_0032.jpg
-"10241 S Marsh Creek, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"7659 S Marsh Creek, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"105 E 16Th, Bannock County, ID",,img_000_.jpg,img_000_.jpg
+"10241 S Marsh Creek, Bannock County, ID",0.0,,
+"7659 S Marsh Creek, Bannock County, ID",0.0,,
+"105 E 16Th, Bannock County, ID",0.0,,
 "8993 S Old Hwy 91, Bannock County, ID",,img_000_.jpg,img_000_.jpg
 "8806 S Old Hwy 91, Bannock County, ID",,img_000_.jpg,img_000_.jpg
 "8266 S Old Hwy 91, Bannock County, ID",,img_000_.jpg,img_000_.jpg
