@@ -27,9 +27,9 @@ address,lanes,filename1,filename2
 "11572 E Cottonwood, Bannock County, ID",1.0,Clark_Images/1/Bannock_County_ID_img_0019.jpg,Clark_Images/1/Bannock_County_ID_img_0020.jpg
 "11677 E Cottonwood, Bannock County, ID",,img_000_.jpg,img_000_.jpg
 "31226 S Swan Lake, Bannock County, ID",1.0,Clark_Images/1/Bannock_County_ID_img_0021.jpg,Clark_Images/1/Bannock_County_ID_img_0022.jpg
-"31102 S Swan Lake, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"31120 S Swan Lake, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"11585 E Cottonwood, Bannock County, ID",,img_000_.jpg,img_000_.jpg
+"31102 S Swan Lake, Bannock County, ID",0.0,,
+"31120 S Swan Lake, Bannock County, ID",0.0,,
+"11585 E Cottonwood, Bannock County, ID",1.0,Clark_Images/1/Bannock_County_ID_img_0023.jpg,Clark_Images/1/Bannock_County_ID_img_0024.jpg
 "31078 S U S Hwy 91, Bannock County, ID",,img_000_.jpg,img_000_.jpg
 "1899 E Jensen, Bannock County, ID",,img_000_.jpg,img_000_.jpg
 "31150 S Swan Lake, Bannock County, ID",,img_000_.jpg,img_000_.jpg
