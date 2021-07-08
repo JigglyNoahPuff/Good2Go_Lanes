@@ -10,7 +10,7 @@ index,address,lanes,filename1,filename2,checkList,check
 25,"69 E 100 S Morgan, UT",,img_000_.jpg,img_000_.jpg,"['69', 'E', '100', 'S', 'Morgan,', 'UT']",E100S
 33,"30 N 200 E Morgan, UT",,img_000_.jpg,img_000_.jpg,"['30', 'N', '200', 'E', 'Morgan,', 'UT']",N200E
 57,"443 E Deer Valley Dr Morgan, UT",,img_000_.jpg,img_000_.jpg,"['443', 'E', 'Deer', 'Valley', 'Dr', 'Morgan,', 'UT']",EDeerValley
-66,"170 S Esquire Dr Morgan, UT",,img_000_.jpg,img_000_.jpg,"['170', 'S', 'Esquire', 'Dr', 'Morgan,', 'UT']",SEsquireDr
+66,"170 S Esquire Dr Morgan, UT",1.0,streets/1/Morgan_UT_img_0009.jpg,streets/1/Morgan_UT_img_0010.jpg,"['170', 'S', 'Esquire', 'Dr', 'Morgan,', 'UT']",SEsquireDr
 68,"316 E Rose Dr Morgan, UT",,img_000_.jpg,img_000_.jpg,"['316', 'E', 'Rose', 'Dr', 'Morgan,', 'UT']",ERoseDr
 96,"308 E Imperial Dr Morgan, UT",,img_000_.jpg,img_000_.jpg,"['308', 'E', 'Imperial', 'Dr', 'Morgan,', 'UT']",EImperialDr
 101,"211 S Meadowlark Way Morgan, UT",,img_000_.jpg,img_000_.jpg,"['211', 'S', 'Meadowlark', 'Way', 'Morgan,', 'UT']",SMeadowlarkWay
