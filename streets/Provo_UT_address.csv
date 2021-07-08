@@ -19,7 +19,7 @@ index,address,lanes,filename1,filename2,checkList,check
 48,"1069 W 100 S Provo, UT",,img_000_.jpg,img_000_.jpg,"['1069', 'W', '100', 'S', 'Provo,', 'UT']",W100S
 49,"518 E 400 N Provo, UT",,img_000_.jpg,img_000_.jpg,"['518', 'E', '400', 'N', 'Provo,', 'UT']",E400N
 50,"2183 N Timpview Dr Provo, UT",2.0,streets/2/Provo_UT_img_0013.jpg,streets/2/Provo_UT_img_0014.jpg,"['2183', 'N', 'Timpview', 'Dr', 'Provo,', 'UT']",NTimpviewDr
-54,"1396 N 300 W Provo, UT",,img_000_.jpg,img_000_.jpg,"['1396', 'N', '300', 'W', 'Provo,', 'UT']",N300W
+54,"1396 N 300 W Provo, UT",2.0,streets/2/Provo_UT_img_0015.jpg,streets/2/Provo_UT_img_0016.jpg,"['1396', 'N', '300', 'W', 'Provo,', 'UT']",N300W
 55,"443 N 100 E Provo, UT",,img_000_.jpg,img_000_.jpg,"['443', 'N', '100', 'E', 'Provo,', 'UT']",N100E
 56,"2598 N 930 E Provo, UT",,img_000_.jpg,img_000_.jpg,"['2598', 'N', '930', 'E', 'Provo,', 'UT']",N930E
 57,"2581 W Center St Provo, UT",,img_000_.jpg,img_000_.jpg,"['2581', 'W', 'Center', 'St', 'Provo,', 'UT']",WCenterSt
