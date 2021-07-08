@@ -119,8 +119,8 @@ address,lanes,filename1,filename2
 "32278 Waha Rd, Nez Perce County, ID",,img_000_.jpg,img_000_.jpg
 "33099 Waha Rd, Nez Perce County, ID",2.0,Spencer's images/2/Nez_Perce_County_ID_img_0019.jpg,Spencer's images/2/Nez_Perce_County_ID_img_0020.jpg
 "33471 Waha Rd, Nez Perce County, ID",,img_000_.jpg,img_000_.jpg
-"33857 Llama Ln, Nez Perce County, ID",,img_000_.jpg,img_000_.jpg
-"33849 Llama Ln, Nez Perce County, ID",,img_000_.jpg,img_000_.jpg
+"33857 Llama Ln, Nez Perce County, ID",0.0,,
+"33849 Llama Ln, Nez Perce County, ID",0.0,,
 "34874 Waha Rd, Nez Perce County, ID",,img_000_.jpg,img_000_.jpg
 "35774 Waha Rd, Nez Perce County, ID",,img_000_.jpg,img_000_.jpg
 "36108 Miller Rd, Nez Perce County, ID",,img_000_.jpg,img_000_.jpg
