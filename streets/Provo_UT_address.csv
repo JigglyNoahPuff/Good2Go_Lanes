@@ -40,7 +40,7 @@ index,address,lanes,filename1,filename2,checkList,check
 134,"2850 N Indian Hills Dr Provo, UT",,img_000_.jpg,img_000_.jpg,"['2850', 'N', 'Indian', 'Hills', 'Dr', 'Provo,', 'UT']",NIndianHills
 142,"46 W 200 N Provo, UT",,img_000_.jpg,img_000_.jpg,"['46', 'W', '200', 'N', 'Provo,', 'UT']",W200N
 144,"2572 W 1570 N Provo, UT",1.0,streets/1/Provo_UT_img_0031.jpg,streets/1/Provo_UT_img_0032.jpg,"['2572', 'W', '1570', 'N', 'Provo,', 'UT']",W1570N
-151,"614 N 970 W Provo, UT",,img_000_.jpg,img_000_.jpg,"['614', 'N', '970', 'W', 'Provo,', 'UT']",N970W
+151,"614 N 970 W Provo, UT",1.0,streets/1/Provo_UT_img_0033.jpg,streets/1/Provo_UT_img_0034.jpg,"['614', 'N', '970', 'W', 'Provo,', 'UT']",N970W
 152,"1688 N Pine Ln Provo, UT",,img_000_.jpg,img_000_.jpg,"['1688', 'N', 'Pine', 'Ln', 'Provo,', 'UT']",NPineLn
 156,"1985 N 2800 W Provo, UT",,img_000_.jpg,img_000_.jpg,"['1985', 'N', '2800', 'W', 'Provo,', 'UT']",N2800W
 160,"1804 N 2700 W Provo, UT",,img_000_.jpg,img_000_.jpg,"['1804', 'N', '2700', 'W', 'Provo,', 'UT']",N2700W
