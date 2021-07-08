@@ -66,7 +66,7 @@ address,lanes,filename1,filename2
 "287.0 N 4280 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
 "167.0 Dove Ave, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
 "167.0 Idaho Ave, Jefferson County, ID",1.0,Spencer's images/1/Jefferson_County_ID_img_0011.jpg,Spencer's images/1/Jefferson_County_ID_img_0012.jpg
-"167.0 N 4800 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
+"167.0 N 4800 E, Jefferson County, ID",0.0,,
 "168.0 Dove Ave, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
 "169.0 N 4870 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
 "2875.0 E 634 N, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
