@@ -28,7 +28,7 @@ index,address,lanes,filename1,filename2,checkList,check
 67,"244 E 4200 N Provo, UT",,img_000_.jpg,img_000_.jpg,"['244', 'E', '4200', 'N', 'Provo,', 'UT']",E4200N
 68,"235 E 4320 N Provo, UT",1.0,streets/1/Provo_UT_img_0021.jpg,streets/1/Provo_UT_img_0022.jpg,"['235', 'E', '4320', 'N', 'Provo,', 'UT']",E4320N
 70,"290 W 1625 N Provo, UT",2.0,streets/2/Provo_UT_img_0023.jpg,streets/2/Provo_UT_img_0024.jpg,"['290', 'W', '1625', 'N', 'Provo,', 'UT']",W1625N
-72,"1744 N 550 W Provo, UT",,img_000_.jpg,img_000_.jpg,"['1744', 'N', '550', 'W', 'Provo,', 'UT']",N550W
+72,"1744 N 550 W Provo, UT",0.0,,,"['1744', 'N', '550', 'W', 'Provo,', 'UT']",N550W
 88,"462 W 1720 N Provo, UT",,img_000_.jpg,img_000_.jpg,"['462', 'W', '1720', 'N', 'Provo,', 'UT']",W1720N
 92,"2575 W 1680 N Provo, UT",,img_000_.jpg,img_000_.jpg,"['2575', 'W', '1680', 'N', 'Provo,', 'UT']",W1680N
 99,"668 E 2950 N Provo, UT",,img_000_.jpg,img_000_.jpg,"['668', 'E', '2950', 'N', 'Provo,', 'UT']",E2950N
