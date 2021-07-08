@@ -8,8 +8,8 @@ address,lanes,filename1,filename2
 "30236 S U S Hwy 91, Bannock County, ID",0.0,,
 "4708 W Portneuf, Bannock County, ID",0.0,,
 "2465 Old Hwy 91, Bannock County, ID",1.0,Clark_Images/1/Bannock_County_ID_img_0007.jpg,Clark_Images/1/Bannock_County_ID_img_0008.jpg
-"3229 W Portneuf, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"2665 W Old Hwy 91, Bannock County, ID",,img_000_.jpg,img_000_.jpg
+"3229 W Portneuf, Bannock County, ID",0.0,,
+"2665 W Old Hwy 91, Bannock County, ID",1.0,Clark_Images/1/Bannock_County_ID_img_0009.jpg,Clark_Images/1/Bannock_County_ID_img_0010.jpg
 "90 N Indian Creek, Bannock County, ID",,img_000_.jpg,img_000_.jpg
 "7264 S Pheasant, Bannock County, ID",,img_000_.jpg,img_000_.jpg
 "10070 E Bald Eagle Way, Bannock County, ID",,img_000_.jpg,img_000_.jpg
