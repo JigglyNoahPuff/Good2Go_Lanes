@@ -8,7 +8,7 @@ address,lanes,filename1,filename2
 "93 N State St Morgan, UT",2.0,Spencer's images/2/Morgan_UT_img_0009.jpg,Spencer's images/2/Morgan_UT_img_0010.jpg
 "50 N 100 W Morgan, UT",1.0,Spencer's images/1/Morgan_UT_img_0011.jpg,Spencer's images/1/Morgan_UT_img_0012.jpg
 "10 W Young St Morgan, UT",,img_000_.jpg,img_000_.jpg
-"29 S 100 W Morgan, UT",,img_000_.jpg,img_000_.jpg
+"29 S 100 W Morgan, UT",1.0,Spencer's images/1/Morgan_UT_img_0013.jpg,Spencer's images/1/Morgan_UT_img_0014.jpg
 "65 S 100 W Morgan, UT",,img_000_.jpg,img_000_.jpg
 "87 S 100 W Morgan, UT",,img_000_.jpg,img_000_.jpg
 "36 W 100 S Morgan, UT",,img_000_.jpg,img_000_.jpg
