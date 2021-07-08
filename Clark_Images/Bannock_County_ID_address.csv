@@ -62,15 +62,15 @@ address,lanes,filename1,filename2
 "980 E Dixon, Bannock County, ID",0.0,,
 "11178 W Deerridge, Bannock County, ID",1.0,Clark_Images/1/Bannock_County_ID_img_0037.jpg,Clark_Images/1/Bannock_County_ID_img_0038.jpg
 "590 S Front St, Bannock County, ID",2.0,Clark_Images/2/Bannock_County_ID_img_0039.jpg,Clark_Images/2/Bannock_County_ID_img_0040.jpg
-"76 E Goodenough, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"999 E Big Hollow Rd, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"9450 S Robin, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"9174 S Robin, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"9250 S Robin, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"9306 S Robin, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"1158 E Dixon, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"1217 E Dixon, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"1968 E Price, Bannock County, ID",,img_000_.jpg,img_000_.jpg
+"76 E Goodenough, Bannock County, ID",0.0,,
+"999 E Big Hollow Rd, Bannock County, ID",0.0,,
+"9450 S Robin, Bannock County, ID",0.0,,
+"9174 S Robin, Bannock County, ID",0.0,,
+"9250 S Robin, Bannock County, ID",0.0,,
+"9306 S Robin, Bannock County, ID",0.0,,
+"1158 E Dixon, Bannock County, ID",0.0,,
+"1217 E Dixon, Bannock County, ID",0.0,,
+"1968 E Price, Bannock County, ID",2.0,Clark_Images/2/Bannock_County_ID_img_0041.jpg,Clark_Images/2/Bannock_County_ID_img_0042.jpg
 "13403 N Walton, Bannock County, ID",,img_000_.jpg,img_000_.jpg
 "999 E Jensen, Bannock County, ID",,img_000_.jpg,img_000_.jpg
 "10159 S Old Hwy 91, Bannock County, ID",,img_000_.jpg,img_000_.jpg
