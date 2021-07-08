@@ -36,7 +36,7 @@ address,lanes,filename1,filename2
 "55 N 200 E Morgan, UT",0.0,,
 "784 E Young St Morgan, UT",,img_000_.jpg,img_000_.jpg
 "570 E Young St Morgan, UT",,img_000_.jpg,img_000_.jpg
-"446 E Young St Morgan, UT",,img_000_.jpg,img_000_.jpg
+"446 E Young St Morgan, UT",1.0,Spencer's images/1/Morgan_UT_img_0043.jpg,Spencer's images/1/Morgan_UT_img_0044.jpg
 "344 E Young St Morgan, UT",,img_000_.jpg,img_000_.jpg
 "707 E 100 S Morgan, UT",,img_000_.jpg,img_000_.jpg
 "685 E 100 S Morgan, UT",,img_000_.jpg,img_000_.jpg
