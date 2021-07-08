@@ -83,8 +83,8 @@ address,lanes,filename1,filename2
 "203 E Jensen, Bannock County, ID",2.0,Clark_Images/2/Bannock_County_ID_img_0049.jpg,Clark_Images/2/Bannock_County_ID_img_0050.jpg
 "55 E Merrill, Bannock County, ID",2.0,Clark_Images/2/Bannock_County_ID_img_0051.jpg,Clark_Images/2/Bannock_County_ID_img_0052.jpg
 "151 E Merrill, Bannock County, ID",2.0,Clark_Images/2/Bannock_County_ID_img_0053.jpg,Clark_Images/2/Bannock_County_ID_img_0054.jpg
-"329 E Merrill, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"1012 E Jensen, Bannock County, ID",,img_000_.jpg,img_000_.jpg
+"329 E Merrill, Bannock County, ID",0.0,,
+"1012 E Jensen, Bannock County, ID",2.0,Clark_Images/2/Bannock_County_ID_img_0055.jpg,Clark_Images/2/Bannock_County_ID_img_0056.jpg
 "10464 S Marsh Creek, Bannock County, ID",,img_000_.jpg,img_000_.jpg
 "10285 S Marsh Creek, Bannock County, ID",,img_000_.jpg,img_000_.jpg
 "11299 S Henderson, Bannock County, ID",,img_000_.jpg,img_000_.jpg
