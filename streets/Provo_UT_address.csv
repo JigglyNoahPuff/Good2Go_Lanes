@@ -78,7 +78,7 @@ level_0,index,address,lanes,filename1,filename2,checkList,check
 76,302,"1951 S Montana Ave Provo, UT",,img_000_.jpg,img_000_.jpg,"['1951', 'S', 'Montana', 'Ave', 'Provo,', 'UT']",SMontanaAve
 77,317,"763 E 560 N Provo, UT",,img_000_.jpg,img_000_.jpg,"['763', 'E', '560', 'N', 'Provo,', 'UT']",E560N
 78,318,"120 N 700 W Provo, UT",,img_000_.jpg,img_000_.jpg,"['120', 'N', '700', 'W', 'Provo,', 'UT']",N700W
-79,321,"2332 N 750 E Provo, UT",,img_000_.jpg,img_000_.jpg,"['2332', 'N', '750', 'E', 'Provo,', 'UT']",N750E
+79,321,"2332 N 750 E Provo, UT",1.0,streets/1/Provo_UT_img_0051.jpg,streets/1/Provo_UT_img_0052.jpg,"['2332', 'N', '750', 'E', 'Provo,', 'UT']",N750E
 80,323,"95 N 800 W Provo, UT",,img_000_.jpg,img_000_.jpg,"['95', 'N', '800', 'W', 'Provo,', 'UT']",N800W
 81,327,"811 E 2320 N Provo, UT",,img_000_.jpg,img_000_.jpg,"['811', 'E', '2320', 'N', 'Provo,', 'UT']",E2320N
 82,328,"241 N Freedom Blvd Provo, UT",,img_000_.jpg,img_000_.jpg,"['241', 'N', 'Freedom', 'Blvd', 'Provo,', 'UT']",NFreedomBlvd
