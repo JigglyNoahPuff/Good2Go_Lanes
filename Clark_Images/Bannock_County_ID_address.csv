@@ -1,7 +1,7 @@
 address,lanes,filename1,filename2
-"33023 S Stockton Ext, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"30360 S Cottonwood, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"30732 S U S Hwy 91, Bannock County, ID",,img_000_.jpg,img_000_.jpg
+"33023 S Stockton Ext, Bannock County, ID",0.0,,
+"30360 S Cottonwood, Bannock County, ID",0.0,,
+"30732 S U S Hwy 91, Bannock County, ID",2.0,Clark_Images/2/Bannock_County_ID_img_0001.jpg,Clark_Images/2/Bannock_County_ID_img_0002.jpg
 "11992 Gambles, Bannock County, ID",,img_000_.jpg,img_000_.jpg
 "11921 E Cottonwood, Bannock County, ID",,img_000_.jpg,img_000_.jpg
 "30790 S U S Hwy 91, Bannock County, ID",,img_000_.jpg,img_000_.jpg
