@@ -20,7 +20,7 @@ address,lanes,filename1,filename2
 "136.0 N 4500 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
 "140.0 N 4600 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
 "152.0 N 4600 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
-"153.0 N 4663 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
+"153.0 N 4663 E, Jefferson County, ID",0.0,,
 "147.0 N 4500 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
 "149.0 N 4600 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
 "150.0 N 4500 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
