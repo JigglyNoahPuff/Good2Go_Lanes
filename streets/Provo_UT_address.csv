@@ -62,7 +62,7 @@ level_0,index,address,lanes,filename1,filename2,checkList,check
 60,251,"342 E 300 S Provo, UT",4.0,streets/4/Provo_UT_img_0043.jpg,streets/4/Provo_UT_img_0044.jpg,"['342', 'E', '300', 'S', 'Provo,', 'UT']",E300S
 61,258,"1134 N 500 W Provo, UT",,img_000_.jpg,img_000_.jpg,"['1134', 'N', '500', 'W', 'Provo,', 'UT']",N500W
 62,259,"340 S 400 E Provo, UT",,img_000_.jpg,img_000_.jpg,"['340', 'S', '400', 'E', 'Provo,', 'UT']",S400E
-63,262,"370 S 600 E Provo, UT",,img_000_.jpg,img_000_.jpg,"['370', 'S', '600', 'E', 'Provo,', 'UT']",S600E
+63,262,"370 S 600 E Provo, UT",4.0,streets/4/Provo_UT_img_0045.jpg,streets/4/Provo_UT_img_0046.jpg,"['370', 'S', '600', 'E', 'Provo,', 'UT']",S600E
 64,265,"779 E 300 N Provo, UT",,img_000_.jpg,img_000_.jpg,"['779', 'E', '300', 'N', 'Provo,', 'UT']",E300N
 65,270,"2642 N 350 E Provo, UT",,img_000_.jpg,img_000_.jpg,"['2642', 'N', '350', 'E', 'Provo,', 'UT']",N350E
 66,278,"1170 S Flight Line Dr Provo, UT",,img_000_.jpg,img_000_.jpg,"['1170', 'S', 'Flight', 'Line', 'Dr', 'Provo,', 'UT']",SFlightLine
