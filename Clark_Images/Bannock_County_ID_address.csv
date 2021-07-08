@@ -34,10 +34,10 @@ address,lanes,filename1,filename2
 "1899 E Jensen, Bannock County, ID",0.0,,
 "31150 S Swan Lake, Bannock County, ID",0.0,,
 "11576 E Cottonwood, Bannock County, ID",1.0,Clark_Images/1/Bannock_County_ID_img_0027.jpg,Clark_Images/1/Bannock_County_ID_img_0028.jpg
-"32782 Stockton Ext, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"731 E Dixon, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"11240 E Reservoir, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"31343 S Yearsley, Bannock County, ID",,img_000_.jpg,img_000_.jpg
+"32782 Stockton Ext, Bannock County, ID",0.0,,
+"731 E Dixon, Bannock County, ID",0.0,,
+"11240 E Reservoir, Bannock County, ID",0.0,,
+"31343 S Yearsley, Bannock County, ID",1.0,Clark_Images/1/Bannock_County_ID_img_0029.jpg,Clark_Images/1/Bannock_County_ID_img_0030.jpg
 "12686 E Stockton, Bannock County, ID",,img_000_.jpg,img_000_.jpg
 "1345 E Merrill, Bannock County, ID",,img_000_.jpg,img_000_.jpg
 "10241 S Marsh Creek, Bannock County, ID",,img_000_.jpg,img_000_.jpg
