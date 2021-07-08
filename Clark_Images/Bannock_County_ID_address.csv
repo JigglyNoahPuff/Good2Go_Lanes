@@ -78,9 +78,9 @@ address,lanes,filename1,filename2
 "10164 S Hall, Bannock County, ID",1.0,Clark_Images/1/Bannock_County_ID_img_0047.jpg,Clark_Images/1/Bannock_County_ID_img_0048.jpg
 "10118 S Hall, Bannock County, ID",,img_000_.jpg,img_000_.jpg
 "10112 S Hall, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"10256 S Hall, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"153 E Jensen, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"203 E Jensen, Bannock County, ID",,img_000_.jpg,img_000_.jpg
+"10256 S Hall, Bannock County, ID",0.0,,
+"153 E Jensen, Bannock County, ID",0.0,,
+"203 E Jensen, Bannock County, ID",2.0,Clark_Images/2/Bannock_County_ID_img_0049.jpg,Clark_Images/2/Bannock_County_ID_img_0050.jpg
 "55 E Merrill, Bannock County, ID",,img_000_.jpg,img_000_.jpg
 "151 E Merrill, Bannock County, ID",,img_000_.jpg,img_000_.jpg
 "329 E Merrill, Bannock County, ID",,img_000_.jpg,img_000_.jpg
