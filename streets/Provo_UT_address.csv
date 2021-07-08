@@ -6,7 +6,7 @@ index,address,lanes,filename1,filename2,checkList,check
 17,"542 S 1660 W Provo, UT",0.0,,,"['542', 'S', '1660', 'W', 'Provo,', 'UT']",S1660W
 21,"786 W 2000 N Provo, UT",,img_000_.jpg,img_000_.jpg,"['786', 'W', '2000', 'N', 'Provo,', 'UT']",W2000N
 31,"2054 N 940 W Provo, UT",,img_000_.jpg,img_000_.jpg,"['2054', 'N', '940', 'W', 'Provo,', 'UT']",N940W
-33,"1616 W 600 S Provo, UT",,img_000_.jpg,img_000_.jpg,"['1616', 'W', '600', 'S', 'Provo,', 'UT']",W600S
+33,"1616 W 600 S Provo, UT",2.0,streets/2/Provo_UT_img_0007.jpg,streets/2/Provo_UT_img_0008.jpg,"['1616', 'W', '600', 'S', 'Provo,', 'UT']",W600S
 35,"566 S 1600 W Provo, UT",,img_000_.jpg,img_000_.jpg,"['566', 'S', '1600', 'W', 'Provo,', 'UT']",S1600W
 36,"1160 S Nevada Ave Provo, UT",,img_000_.jpg,img_000_.jpg,"['1160', 'S', 'Nevada', 'Ave', 'Provo,', 'UT']",SNevadaAve
 37,"485 E 1130 S Provo, UT",,img_000_.jpg,img_000_.jpg,"['485', 'E', '1130', 'S', 'Provo,', 'UT']",E1130S
