@@ -23,7 +23,7 @@ address,lanes,filename1,filename2
 "11473 E Gibbs, Bannock County, ID",1.0,Clark_Images/1/Bannock_County_ID_img_0013.jpg,Clark_Images/1/Bannock_County_ID_img_0014.jpg
 "31364 S Old Hwy 91, Bannock County, ID",2.0,Clark_Images/2/Bannock_County_ID_img_0015.jpg,Clark_Images/2/Bannock_County_ID_img_0016.jpg
 "31440 S Old Hwy 91, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"31078 S U S Hwy 91, Bannock County, ID",,img_000_.jpg,img_000_.jpg
+"31078 S U S Hwy 91, Bannock County, ID",2.0,Clark_Images/2/Bannock_County_ID_img_0017.jpg,Clark_Images/2/Bannock_County_ID_img_0018.jpg
 "11572 E Cottonwood, Bannock County, ID",,img_000_.jpg,img_000_.jpg
 "11677 E Cottonwood, Bannock County, ID",,img_000_.jpg,img_000_.jpg
 "31226 S Swan Lake, Bannock County, ID",,img_000_.jpg,img_000_.jpg
