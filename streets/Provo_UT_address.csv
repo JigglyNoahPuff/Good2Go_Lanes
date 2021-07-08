@@ -74,7 +74,7 @@ level_0,index,address,lanes,filename1,filename2,checkList,check
 72,290,"1201 E 230 S Provo, UT",,img_000_.jpg,img_000_.jpg,"['1201', 'E', '230', 'S', 'Provo,', 'UT']",E230S
 73,293,"319 N 800 E Provo, UT",,img_000_.jpg,img_000_.jpg,"['319', 'N', '800', 'E', 'Provo,', 'UT']",N800E
 74,299,"361 E 400 S Provo, UT",,img_000_.jpg,img_000_.jpg,"['361', 'E', '400', 'S', 'Provo,', 'UT']",E400S
-75,300,"165 S 500 W Provo, UT",,img_000_.jpg,img_000_.jpg,"['165', 'S', '500', 'W', 'Provo,', 'UT']",S500W
+75,300,"165 S 500 W Provo, UT",2.0,streets/2/Provo_UT_img_0049.jpg,streets/2/Provo_UT_img_0050.jpg,"['165', 'S', '500', 'W', 'Provo,', 'UT']",S500W
 76,302,"1951 S Montana Ave Provo, UT",,img_000_.jpg,img_000_.jpg,"['1951', 'S', 'Montana', 'Ave', 'Provo,', 'UT']",SMontanaAve
 77,317,"763 E 560 N Provo, UT",,img_000_.jpg,img_000_.jpg,"['763', 'E', '560', 'N', 'Provo,', 'UT']",E560N
 78,318,"120 N 700 W Provo, UT",,img_000_.jpg,img_000_.jpg,"['120', 'N', '700', 'W', 'Provo,', 'UT']",N700W
