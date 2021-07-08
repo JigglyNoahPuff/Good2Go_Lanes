@@ -17,7 +17,7 @@ index,address,lanes,filename1,filename2,checkList,check
 106,"176 E Falcon Cir Morgan, UT",,img_000_.jpg,img_000_.jpg,"['176', 'E', 'Falcon', 'Cir', 'Morgan,', 'UT']",EFalconCir
 112,"173 S Sandpiper Way Morgan, UT",,img_000_.jpg,img_000_.jpg,"['173', 'S', 'Sandpiper', 'Way', 'Morgan,', 'UT']",SSandpiperWay
 115,"192 S Finch Cir Morgan, UT",,img_000_.jpg,img_000_.jpg,"['192', 'S', 'Finch', 'Cir', 'Morgan,', 'UT']",SFinchCir
-127,"95 N 300 E Morgan, UT",,img_000_.jpg,img_000_.jpg,"['95', 'N', '300', 'E', 'Morgan,', 'UT']",N300E
+127,"95 N 300 E Morgan, UT",1.0,streets/1/Morgan_UT_img_0011.jpg,streets/1/Morgan_UT_img_0012.jpg,"['95', 'N', '300', 'E', 'Morgan,', 'UT']",N300E
 129,"424 E 100 N Morgan, UT",,img_000_.jpg,img_000_.jpg,"['424', 'E', '100', 'N', 'Morgan,', 'UT']",E100N
 130,"78 S Commercial St Morgan, UT",,img_000_.jpg,img_000_.jpg,"['78', 'S', 'Commercial', 'St', 'Morgan,', 'UT']",SCommercialSt
 138,"13 N Commercial St Morgan, UT",,img_000_.jpg,img_000_.jpg,"['13', 'N', 'Commercial', 'St', 'Morgan,', 'UT']",NCommercialSt
