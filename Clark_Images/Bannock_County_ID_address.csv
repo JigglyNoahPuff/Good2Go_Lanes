@@ -18,9 +18,9 @@ address,lanes,filename1,filename2
 "9390 N Kimberly, Bannock County, ID",0.0,,
 "9895 W Clifford, Bannock County, ID",0.0,,
 "4643 W Old Hwy 91, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"30974 S Chicken Creek, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"31366 S Yearsley, Bannock County, ID",,img_000_.jpg,img_000_.jpg
-"11473 E Gibbs, Bannock County, ID",,img_000_.jpg,img_000_.jpg
+"30974 S Chicken Creek, Bannock County, ID",0.0,,
+"31366 S Yearsley, Bannock County, ID",0.0,,
+"11473 E Gibbs, Bannock County, ID",1.0,Clark_Images/1/Bannock_County_ID_img_0013.jpg,Clark_Images/1/Bannock_County_ID_img_0014.jpg
 "31364 S Old Hwy 91, Bannock County, ID",,img_000_.jpg,img_000_.jpg
 "31440 S Old Hwy 91, Bannock County, ID",,img_000_.jpg,img_000_.jpg
 "31078 S U S Hwy 91, Bannock County, ID",,img_000_.jpg,img_000_.jpg
