@@ -24,13 +24,13 @@ address,lanes,filename1,filename2
 "147.0 N 4500 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
 "149.0 N 4600 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
 "150.0 N 4500 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
-"1546.0 E North Lake Rd, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
-"182.0 N 3950 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
-"182.0 N 3990 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
-"183.0 N 4000 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
-"184.0 N 3990 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
-"185.0 N 3990 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
-"185.0 N 4000 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
+"1546.0 E North Lake Rd, Jefferson County, ID",0.0,,
+"182.0 N 3950 E, Jefferson County, ID",0.0,,
+"182.0 N 3990 E, Jefferson County, ID",0.0,,
+"183.0 N 4000 E, Jefferson County, ID",0.0,,
+"184.0 N 3990 E, Jefferson County, ID",0.0,,
+"185.0 N 3990 E, Jefferson County, ID",0.0,,
+"185.0 N 4000 E, Jefferson County, ID",0.0,,
 "185.0 N 4700 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
 "1858.0 N 800 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
 "1868.0 N Salmon Hwy, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
