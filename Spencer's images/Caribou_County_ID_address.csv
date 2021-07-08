@@ -1,7 +1,7 @@
 address,lanes,filename1,filename2
 "471.0 N 770  E, Caribou County, ID",,img_000_.jpg,img_000_.jpg
 "210.0 S 1St  E, Caribou County, ID",,img_000_.jpg,img_000_.jpg
-"114.0 E Center St, Caribou County, ID",,img_000_.jpg,img_000_.jpg
+"114.0 E Center St, Caribou County, ID",0.0,,
 "30.0 N 1St  W, Caribou County, ID",,img_000_.jpg,img_000_.jpg
 "114.0 W Center St, Caribou County, ID",,img_000_.jpg,img_000_.jpg
 "108.0 S Main St, Caribou County, ID",,img_000_.jpg,img_000_.jpg
