@@ -2,7 +2,7 @@ index,address,lanes,filename1,filename2,checkList,check
 0,"239 E 4075 N Provo, UT",,img_000_.jpg,img_000_.jpg,"['239', 'E', '4075', 'N', 'Provo,', 'UT']",E4075N
 1,"775 W 2100 N Provo, UT",1.0,streets/1/Provo_UT_img_0001.jpg,streets/1/Provo_UT_img_0002.jpg,"['775', 'W', '2100', 'N', 'Provo,', 'UT']",W2100N
 9,"479 W 1800 N Provo, UT",1.0,streets/1/Provo_UT_img_0003.jpg,streets/1/Provo_UT_img_0004.jpg,"['479', 'W', '1800', 'N', 'Provo,', 'UT']",W1800N
-11,"1731 N 450 W Provo, UT",,img_000_.jpg,img_000_.jpg,"['1731', 'N', '450', 'W', 'Provo,', 'UT']",N450W
+11,"1731 N 450 W Provo, UT",1.0,streets/1/Provo_UT_img_0005.jpg,streets/1/Provo_UT_img_0006.jpg,"['1731', 'N', '450', 'W', 'Provo,', 'UT']",N450W
 17,"542 S 1660 W Provo, UT",,img_000_.jpg,img_000_.jpg,"['542', 'S', '1660', 'W', 'Provo,', 'UT']",S1660W
 21,"786 W 2000 N Provo, UT",,img_000_.jpg,img_000_.jpg,"['786', 'W', '2000', 'N', 'Provo,', 'UT']",W2000N
 31,"2054 N 940 W Provo, UT",,img_000_.jpg,img_000_.jpg,"['2054', 'N', '940', 'W', 'Provo,', 'UT']",N940W
