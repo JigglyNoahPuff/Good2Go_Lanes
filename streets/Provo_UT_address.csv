@@ -36,7 +36,7 @@ index,address,lanes,filename1,filename2,checkList,check
 108,"423 E 100 N Provo, UT",,img_000_.jpg,img_000_.jpg,"['423', 'E', '100', 'N', 'Provo,', 'UT']",E100N
 113,"1375 N 380 W Provo, UT",3.0,streets/3/Provo_UT_img_0027.jpg,streets/3/Provo_UT_img_0028.jpg,"['1375', 'N', '380', 'W', 'Provo,', 'UT']",N380W
 121,"343 W 1300 N Provo, UT",,img_000_.jpg,img_000_.jpg,"['343', 'W', '1300', 'N', 'Provo,', 'UT']",W1300N
-124,"1416 N 1450 E Provo, UT",,img_000_.jpg,img_000_.jpg,"['1416', 'N', '1450', 'E', 'Provo,', 'UT']",N1450E
+124,"1416 N 1450 E Provo, UT",2.0,streets/2/Provo_UT_img_0029.jpg,streets/2/Provo_UT_img_0030.jpg,"['1416', 'N', '1450', 'E', 'Provo,', 'UT']",N1450E
 134,"2850 N Indian Hills Dr Provo, UT",,img_000_.jpg,img_000_.jpg,"['2850', 'N', 'Indian', 'Hills', 'Dr', 'Provo,', 'UT']",NIndianHills
 142,"46 W 200 N Provo, UT",,img_000_.jpg,img_000_.jpg,"['46', 'W', '200', 'N', 'Provo,', 'UT']",W200N
 144,"2572 W 1570 N Provo, UT",,img_000_.jpg,img_000_.jpg,"['2572', 'W', '1570', 'N', 'Provo,', 'UT']",W1570N
