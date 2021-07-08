@@ -81,7 +81,7 @@ address,lanes,filename1,filename2
 "520 E 100 S Morgan, UT",,img_000_.jpg,img_000_.jpg
 "528 E 100 S Morgan, UT",,img_000_.jpg,img_000_.jpg
 "317 E Rose Dr Morgan, UT",,img_000_.jpg,img_000_.jpg
-"325 E Rose Dr Morgan, UT",,img_000_.jpg,img_000_.jpg
+"325 E Rose Dr Morgan, UT",1.0,Spencer's images/1/Morgan_UT_img_0077.jpg,Spencer's images/1/Morgan_UT_img_0078.jpg
 "337 E Rose Dr Morgan, UT",,img_000_.jpg,img_000_.jpg
 "345 E Rose Dr Morgan, UT",,img_000_.jpg,img_000_.jpg
 "357 E Rose Dr Morgan, UT",,img_000_.jpg,img_000_.jpg
