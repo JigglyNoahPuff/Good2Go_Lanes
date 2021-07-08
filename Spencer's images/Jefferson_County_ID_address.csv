@@ -34,7 +34,7 @@ address,lanes,filename1,filename2
 "185.0 N 4700 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
 "1858.0 N 800 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
 "1868.0 N Salmon Hwy, Jefferson County, ID",2.0,Spencer's images/2/Jefferson_County_ID_img_0005.jpg,Spencer's images/2/Jefferson_County_ID_img_0006.jpg
-"187.0 N 3990 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
+"187.0 N 3990 E, Jefferson County, ID",0.0,,
 "1873.0 N 800 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
 "1875.0 N 1025 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
 "189.0 N 4000 E, Jefferson County, ID",,img_000_.jpg,img_000_.jpg
