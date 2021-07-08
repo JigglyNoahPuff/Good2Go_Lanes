@@ -26,7 +26,7 @@ index,address,lanes,filename1,filename2,checkList,check
 60,"1077 E Ash Ave Provo, UT",,img_000_.jpg,img_000_.jpg,"['1077', 'E', 'Ash', 'Ave', 'Provo,', 'UT']",EAshAve
 62,"2125 N University Pkwy Provo, UT",,img_000_.jpg,img_000_.jpg,"['2125', 'N', 'University', 'Pkwy', 'Provo,', 'UT']",NUniversityPkwy
 67,"244 E 4200 N Provo, UT",,img_000_.jpg,img_000_.jpg,"['244', 'E', '4200', 'N', 'Provo,', 'UT']",E4200N
-68,"235 E 4320 N Provo, UT",,img_000_.jpg,img_000_.jpg,"['235', 'E', '4320', 'N', 'Provo,', 'UT']",E4320N
+68,"235 E 4320 N Provo, UT",1.0,streets/1/Provo_UT_img_0021.jpg,streets/1/Provo_UT_img_0022.jpg,"['235', 'E', '4320', 'N', 'Provo,', 'UT']",E4320N
 70,"290 W 1625 N Provo, UT",,img_000_.jpg,img_000_.jpg,"['290', 'W', '1625', 'N', 'Provo,', 'UT']",W1625N
 72,"1744 N 550 W Provo, UT",,img_000_.jpg,img_000_.jpg,"['1744', 'N', '550', 'W', 'Provo,', 'UT']",N550W
 88,"462 W 1720 N Provo, UT",,img_000_.jpg,img_000_.jpg,"['462', 'W', '1720', 'N', 'Provo,', 'UT']",W1720N
