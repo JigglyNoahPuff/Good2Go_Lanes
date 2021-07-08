@@ -55,7 +55,7 @@ level_0,index,address,lanes,filename1,filename2,checkList,check
 53,217,"66 S 2530 W Provo, UT",,img_000_.jpg,img_000_.jpg,"['66', 'S', '2530', 'W', 'Provo,', 'UT']",S2530W
 54,218,"146 S 400 W Provo, UT",,img_000_.jpg,img_000_.jpg,"['146', 'S', '400', 'W', 'Provo,', 'UT']",S400W
 55,220,"796 E 50 S Provo, UT",1.0,streets/1/Provo_UT_img_0037.jpg,streets/1/Provo_UT_img_0038.jpg,"['796', 'E', '50', 'S', 'Provo,', 'UT']",E50S
-56,221,"3421 W Mike Jense Pkwy Provo, UT",,img_000_.jpg,img_000_.jpg,"['3421', 'W', 'Mike', 'Jense', 'Pkwy', 'Provo,', 'UT']",WMikeJense
+56,221,"3421 W Mike Jense Pkwy Provo, UT",3.0,streets/3/Provo_UT_img_0039.jpg,streets/3/Provo_UT_img_0040.jpg,"['3421', 'W', 'Mike', 'Jense', 'Pkwy', 'Provo,', 'UT']",WMikeJense
 57,224,"1002 S Aviation Dr Provo, UT",,img_000_.jpg,img_000_.jpg,"['1002', 'S', 'Aviation', 'Dr', 'Provo,', 'UT']",SAviationDr
 58,225,"735 N 700 E Provo, UT",,img_000_.jpg,img_000_.jpg,"['735', 'N', '700', 'E', 'Provo,', 'UT']",N700E
 59,227,"1271 W 500 N Provo, UT",,img_000_.jpg,img_000_.jpg,"['1271', 'W', '500', 'N', 'Provo,', 'UT']",W500N
